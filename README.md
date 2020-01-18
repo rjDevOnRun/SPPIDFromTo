@@ -1,23 +1,34 @@
-Name:		SPPID From To Application
+Name:		SPPID To-From Application
 
 
 Purpose:	Generate To-From information of
-		PipeRuns without using internal
-		LLAMA or Excel reports.
+		PipeRuns/Pipelines without using LLAMA.
 
 ==========================================================
+Current Status:
 
+- Skeleton codes implemented for basic DB connections
+- Skeleton codes implemented to retrieve Piperuns and Connectors data
+
+==========================================================
+TODOs:
+
+- Logic for PipeLines and T/F data thereof
+- Logic for SQL Server Dataaccess
+- MS-EXCEL Interaction functionality
+- OverAll application refinement.
+
+==========================================================
 Functional Requirments:
 
-
 - Ability to connect to Oracle or SQL projects
-- Generate PipeRun or PipeLine reports
-
+- Generate PipeRun or PipeLine reports with T/F data
 
 
 ==========================================================
-
 Input Requirments:
 
-- PipeRun ItemTags as inputs
+- PipeRun ItemTags as inputs (EXCEL or text formatted files)
 - Database Connection details (UID/Pwds)
+
+
