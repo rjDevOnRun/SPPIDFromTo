@@ -19,7 +19,7 @@ namespace SPPIDFromTo.Models
         public string NominalDiameter { get; set; } = string.Empty;
         public string Fluid { get; set; } = string.Empty;
         public string PipeMaterialsClass { get; set; } = string.Empty;
-        public string SequenceNum { get; set; } = string.Empty;
+        public string SeqNumber { get; set; } = string.Empty;
         public string Insulation { get; set; } = string.Empty;
         public string HeatTrace { get; set; } = string.Empty;
 

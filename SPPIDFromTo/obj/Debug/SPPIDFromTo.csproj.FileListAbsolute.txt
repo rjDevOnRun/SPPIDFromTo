@@ -12,3 +12,5 @@ D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo.Properties.Re
 D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo.csproj.GenerateResource.cache
 D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo.exe
 D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo.pdb
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo.csproj.CopyComplete
