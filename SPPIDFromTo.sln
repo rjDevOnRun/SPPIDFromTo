@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPPIDFromTo", "SPPIDFromTo\SPPIDFromTo.csproj", "{E3A4659A-0F66-4263-AA39-3E11ABA9433D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3A4659A-0F66-4263-AA39-3E11ABA9433D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A4659A-0F66-4263-AA39-3E11ABA9433D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A4659A-0F66-4263-AA39-3E11ABA9433D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A4659A-0F66-4263-AA39-3E11ABA9433D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4E62E3-E52B-490F-BAC6-60E2582B5AB4}
+	EndGlobalSection
+EndGlobal

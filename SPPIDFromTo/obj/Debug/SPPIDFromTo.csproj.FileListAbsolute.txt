@@ -1,0 +1,14 @@
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo.csprojAssemblyReference.cache
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\bin\Debug\SPPIDFromTo.exe.config
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\bin\Debug\SPPIDFromTo.exe
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\bin\Debug\SPPIDFromTo.pdb
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\Views\MainWindow.g.cs
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\App.g.cs
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo_MarkupCompile.cache
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo_MarkupCompile.lref
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\Views\MainWindow.baml
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo.g.resources
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo.Properties.Resources.resources
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo.csproj.GenerateResource.cache
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo.exe
+D:\DEVELOPMENT\SPPID\SPPIDFromTo\SPPIDFromTo\obj\Debug\SPPIDFromTo.pdb
